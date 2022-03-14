@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rosso-demone
+- 👋 Hi, I’m Chaitanyakumar Patel
 - 👀 I’m interested in delivering solutions that makes life of developers and users [of SAAS apps] easy
 - 🌱 I’m currently learning micro frontending and serverless deployments
 - 💞️ I’m looking to collaborate on open source solutions that are designed on javascript
